@@ -8,8 +8,8 @@
 
  DESCRIPTION:
 
- Determines pairs of vectors which components which absolute different does not exceed
- a specified threshold. It is used for determining trials that are indistinguisheble.
+ Determines pairs of vectors with Chebyshev distance (the maximum of the component-wise absolute difference)
+ does not exceed a specified threshold. It is used for determining trials that are indistinguisheble.
 
  The code can be compiled as follows
  
